@@ -10,7 +10,12 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tuxiaobei-scu&repo=Mario&show_owner=true&theme=catppuccin_latte)](https://github.com/tuxiaobei-scu/Mario)  &emsp;    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wysaid&repo=MineSweep&show_owner=true&theme=catppuccin_latte)](https://github.com/wysaid/MineSweep)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=MineSweeper&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/MineSweeper)
+
 ## 应用程序
+
+
+## 图形与动画
 
 
 ## 演示项目
