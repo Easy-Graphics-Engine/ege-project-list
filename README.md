@@ -17,6 +17,7 @@
 
 ## 图形与动画
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Easy-Graphics-Engine&repo=fireworks-flashing-night&show_owner=true&theme=catppuccin_latte)](https://github.com/Easy-Graphics-Engine/fireworks-flashing-night)
 
 ## 演示项目
 
