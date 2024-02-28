@@ -1,4 +1,14 @@
 # Easy Graphics Engine 项目列表
+## 官方项目
+Easy Graphics Engine 图形库
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wysaid&repo=xege&show_owner=true&theme=material-palenight)](https://github.com/wysaid/xege)
+
+Visual Studio Code 插件
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wysaid&repo=vscode-ege&show_owner=true&theme=material-palenight)](https://github.com/wysaid/vscode-ege)
+
+
 ## 基础示例
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Easy-Graphics-Engine&repo=ege-demo&show_owner=true&theme=catppuccin_latte)](https://github.com/Easy-Graphics-Engine/ege-demo)
 
