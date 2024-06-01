@@ -16,6 +16,8 @@ Visual Studio Code 插件
 ## UI 库
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chirsz-ever&repo=microui-impl-ege&show_owner=true&theme=catppuccin_latte)](https://github.com/chirsz-ever/microui-impl-ege) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FeJS8888&repo=FeEGELib&show_owner=true&theme=catppuccin_latte)](https://github.com/FeJS8888/FeEGELib)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Anglebase&repo=Egrome&show_owner=true&theme=catppuccin_latte)](https://github.com/Anglebase/Egrome)
+
 ## 游戏作品
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tuxiaobei-scu&repo=Mario&show_owner=true&theme=catppuccin_latte)](https://github.com/tuxiaobei-scu/Mario) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wysaid&repo=MineSweep&show_owner=true&theme=catppuccin_latte)](https://github.com/wysaid/MineSweep)
