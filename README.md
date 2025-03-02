@@ -24,6 +24,8 @@ Visual Studio Code 插件
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=MineSweeper&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/MineSweeper) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=Minecraft-Redstone-Simulator&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/Minecraft-Redstone-Simulator)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=HuaRongRoad&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/HuaRongRoad) &emsp; [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ltabsyy&repo=Nonogram&show_owner=true&theme=catppuccin_latte)](https://github.com/Ltabsyy/Nonogram)
+
 ## 应用程序
 
 
